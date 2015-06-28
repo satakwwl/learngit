@@ -5,5 +5,6 @@ int main()
     printf("this is funny ,finally got it\n");
     now edit in github
     dddf
+    do something
     return 0;
 }
